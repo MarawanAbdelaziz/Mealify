@@ -1,0 +1,195 @@
+@media screen and (max-width: 1400px) {
+
+
+    .container {
+        width: 65%;
+    }
+
+    .home1 {
+        width: 65%;
+
+    }
+
+    /*****************************  Section Home  *********************************/
+
+
+    .home1 {
+        width: 80%;
+    }
+
+    /*****************************  Section Chefs  *********************************/
+
+
+
+    .chefs1 {
+        width: 80%;
+    }
+
+    /*****************************  Section GALLERY  *********************************/
+
+
+    .gallery1 {
+        width: 80%;
+
+    }
+
+    /*****************************  Section CONTACT  *********************************/
+
+
+    .contact1 {
+        width: 80%;
+
+    }
+
+
+    /***************************** Last Section  *********************************/
+
+
+    .last-section-1 {
+        width: 80%;
+
+    }
+
+    .favicon div img {
+        width: 13%;
+    }
+
+}
+
+@media screen and (max-width: 1200px) {
+
+
+    .nav ul {
+        display: none;
+    }
+
+    /*****************************  Section CONTACT  *********************************/
+
+    .contact-us {
+        width: 48.5%;
+
+    }
+
+    /***************************** last Section  *********************************/
+
+
+    .last-section-1 {
+        flex-wrap: wrap;
+    }
+
+    .favicon {
+        width: 48%;
+    }
+
+
+    .s-o-n {
+        width: 100%;
+        order: 1;
+    }
+
+    .i-b input {
+        width: 87%;
+    }
+
+    .g-i-t {
+        width: 48%;
+
+    }
+
+}
+
+@media screen and (max-width: 992px) {
+
+    /*****************************  Section Home  *********************************/
+
+
+    .home {
+
+        height: 155vh;
+
+    }
+
+    .home1 {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+
+    }
+
+    .hero {
+        width: 90%;
+
+    }
+
+    .hero-text {
+        width: 100%;
+        text-align: center;
+
+    }
+
+    .hero-text p {
+        width: 95%;
+        text-align: center;
+    }
+
+    .for-b {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    /*****************************  Section Chefs  *********************************/
+
+
+    .for-chefs {
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+    .chefs-container {
+        width: 44%;
+        background-color: var(--nav-color);
+        border-radius: 10px;
+        margin-top: 20px;
+        margin: 20px 20px;
+    }
+
+
+    /*****************************  Section GALLERY  *********************************/
+
+
+    .for-gallery {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+    }
+
+    /*****************************  Section CONTACT  *********************************/
+
+
+    .for-input {
+        flex-wrap: wrap;
+    }
+
+    .for-input input {
+        width: 100%;
+        margin-top: 20px;
+    }
+
+
+    /***************************** last Section  *********************************/
+
+
+w
+
+    .i-b input {
+        width: 80%;
+    }
+
+
+}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 576px) {}
